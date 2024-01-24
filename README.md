@@ -24,20 +24,9 @@ This project aims to predict car auction prices using machine learning. It is or
 - **Scrapping_Code:** Includes code for web scraping (if applicable).
 - **Training_Code:** Contains code for training machine learning models.
 
-## Directories
+# Project : 2 Simple Linear Regression: Area and Price Prediction
 
-### 1. Dataset
+## Overview
 
-This directory holds dataset files used for training and evaluating the machine learning model.
+This project showcases a simple linear regression model to predict property prices based on their areas. The dataset includes two variables: "Area" (in square feet) and "Price" (in currency). The objective is to create an accurate linear regression model for predicting property prices.
 
-### 2. Model
-
-Save your trained machine learning models and related files in this directory.
-
-### 3. Scrapping_Code
-
-If you have any code related to web scraping, it can be found in this directory.
-
-### 4. Training_Code
-
-This directory contains code for training machine learning models.
