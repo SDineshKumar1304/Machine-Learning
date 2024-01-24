@@ -1,5 +1,6 @@
-## ML Projects Repository
-# Developer: S. Dinesh Kumar
+##  ML Projects Repository
+
+Developer: S. Dinesh Kumar
 Welcome to the ML Projects repository! I'm S. Dinesh Kumar, and I'm excited to share my machine learning projects with you. In this repository, you'll find a collection of projects that I've developed to explore and apply machine learning techniques.
 
 # Table of Contents
