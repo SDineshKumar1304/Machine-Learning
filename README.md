@@ -17,10 +17,12 @@ This repository contains a simple implementation of a linear regression model tr
 - **horsepower:** The car's engine power.
 
 ## Files and Directories
+This project aims to predict car auction prices using machine learning. It is organized into the following directories:
 
-- **linear_regression_model.ipynb**: Jupyter Notebook containing the code for training the linear regression model.
-- **linear_regression_model.joblib**: The saved model file using joblib.
-- **new_unseen_data.csv**: A sample CSV file with new unseen data for testing the model.
+- **Dataset:** Contains dataset files used for training and evaluation.
+- **Model:** Stores trained machine learning models and related files.
+- **Scrapping_Code:** Includes code for web scraping (if applicable).
+- **Training_Code:** Contains code for training machine learning models.
 
 ## Requirements
 
