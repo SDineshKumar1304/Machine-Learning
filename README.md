@@ -41,3 +41,17 @@ The dataset contains information about both male and female customers. A signifi
 
 # Churn Analysis:
 The "Churn" column is crucial as it indicates whether a customer has left the service. It's important to investigate factors that contribute to churn, such as tenure, service types, and additional features.
+
+# Project 4
+
+# Overview
+The goal of this project is to develop a sentiment analysis model capable of classifying text into different sentiment categories. The sentiment data used for training and testing the model has been manually collected to ensure a diverse and representative dataset. 
+# Data Collection
+The sentiment data used in this project was collected manually. The dataset, stored in an Excel file (Sentiment.xlsx), includes text samples with corresponding sentiment labels. Details about the manual data collection process, sources, and criteria are explained in the data collection section of the code.
+
+# Data Cleaning
+Before training the sentiment analysis model, the collected data undergoes a cleaning process. The clean_text function is applied to each text sample, which includes tasks such as lowercasing, HTML tag removal, punctuation removal, and lemmatization. The cleaned data is then used for model training.
+
+# Model Training
+The sentiment analysis model is trained using a Support Vector Machine (SVM) classifier with a linear kernel. The cleaned text data is transformed into a bag-of-words representation using the CountVectorizer. The trained model is saved as Sentiment_classifier_model.joblib, and the corresponding TF-IDF vectorizer is saved as vectorizer_model.joblib.
+
