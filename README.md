@@ -42,7 +42,7 @@ The dataset contains information about both male and female customers. A signifi
 # Churn Analysis:
 The "Churn" column is crucial as it indicates whether a customer has left the service. It's important to investigate factors that contribute to churn, such as tenure, service types, and additional features.
 
-# Project 4
+# Project : 4  Support Vector Machine 
 
 # Overview
 The goal of this project is to develop a sentiment analysis model capable of classifying text into different sentiment categories. The sentiment data used for training and testing the model has been manually collected to ensure a diverse and representative dataset. 
