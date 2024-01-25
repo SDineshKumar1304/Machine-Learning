@@ -30,3 +30,14 @@ This project aims to predict car auction prices using machine learning. It is or
 
 This project showcases a simple linear regression model to predict property prices based on their areas. The dataset includes two variables: "Area" (in square feet) and "Price" (in currency). The objective is to create an accurate linear regression model for predicting property prices.
 
+# Project : 3 Random forrest Classifier
+
+# The Telco customer churn data
+This data contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3. It indicates which customers have left, stayed, or signed up for their service. Multiple important demographics are included for each customer, as well as a Satisfaction Score, Churn Score, and Customer Lifetime Value (CLTV) index. https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+
+Churn is when customers stop using a product or service. For example, if someone cancels their phone plan or stops using a streaming service, it's considered churn. Businesses pay close attention to churn because it's important to keep customers happy and prevent them from leaving, as gaining new customers can be more costly. Understanding why customers leave helps businesses improve and retain their customer base.
+I've conducted an analysis of the provided customer dataset.
+The dataset contains information about both male and female customers. A significant portion of the customers are not senior citizens. Relationship Status:
+
+# Churn Analysis:
+The "Churn" column is crucial as it indicates whether a customer has left the service. It's important to investigate factors that contribute to churn, such as tenure, service types, and additional features.
