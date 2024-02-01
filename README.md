@@ -43,7 +43,7 @@ The dataset contains information about both male and female customers. A signifi
 The "Churn" column is crucial as it indicates whether a customer has left the service. It's important to investigate factors that contribute to churn, such as tenure, service types, and additional features.
 
 # Project : 4  Support Vector Machine 
-
+# Data used is my Own Collection 
 # Overview
 The goal of this project is to develop a sentiment analysis model capable of classifying text into different sentiment categories. The sentiment data used for training and testing the model has been manually collected to ensure a diverse and representative dataset. 
 # Data Collection
@@ -54,4 +54,5 @@ Before training the sentiment analysis model, the collected data undergoes a cle
 
 # Model Training
 The sentiment analysis model is trained using a Support Vector Machine (SVM) classifier with a linear kernel. The cleaned text data is transformed into a bag-of-words representation using the CountVectorizer. The trained model is saved as Sentiment_classifier_model.joblib, and the corresponding TF-IDF vectorizer is saved as vectorizer_model.joblib.
+# Project : 5 Kmeans Clustering
 
