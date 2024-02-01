@@ -55,4 +55,21 @@ Before training the sentiment analysis model, the collected data undergoes a cle
 # Model Training
 The sentiment analysis model is trained using a Support Vector Machine (SVM) classifier with a linear kernel. The cleaned text data is transformed into a bag-of-words representation using the CountVectorizer. The trained model is saved as Sentiment_classifier_model.joblib, and the corresponding TF-IDF vectorizer is saved as vectorizer_model.joblib.
 # Project : 5 Kmeans Clustering
+## Retail Transaction Dataset Analysis
+# Overview
+This Dataset contains a dataset and associated analysis related to retail transactions, likely from an online retail store. The dataset captures individual items within invoices, providing details such as product information, quantity, pricing, and customer-related information.
+
+# Dataset Information
+# Columns
+InvoiceNo: Unique identifier for each invoice.
+StockCode: Code identifying the product.
+Description: A brief description of the product.
+Quantity: The quantity of the product in the invoice.
+InvoiceDate: Date and time when the invoice was generated.
+UnitPrice: The price per unit of the product.
+CustomerID: Unique identifier for the customer.
+Country: The country where the transaction took place.
+
+# Dataset Link :
+ https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering?resource=download
 
