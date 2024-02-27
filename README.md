@@ -21,7 +21,6 @@ This project aims to predict car auction prices using machine learning. It is or
 
 - **Dataset:** Contains dataset files used for training and evaluation.
 - **Model:** Stores trained machine learning models and related files.
-- **Scrapping_Code:** Includes code for web scraping (if applicable).
 - **Training_Code:** Contains code for training machine learning models.
 
 # Project : 2 Simple Linear Regression: Area and Price Prediction
