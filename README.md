@@ -72,3 +72,7 @@ Country: The country where the transaction took place.
 # Dataset Link :
  https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering?resource=download
 
+# Project 6
+# Health care Recommendation system using Decision tree Classifier
+
+## Note: Manually collected data this data is not real time i done this project for practise
