@@ -75,4 +75,6 @@ Country: The country where the transaction took place.
 # Project 6
 # Health care Recommendation system using Decision tree Classifier
 
-## Note: Manually collected data this data is not real time i done this project for practise
+## Note: Manually collected data 
+
+-This data is not real time i done this project for practise
